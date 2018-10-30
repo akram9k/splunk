@@ -1,2 +1,2 @@
 # splunk
-splunk add-ons
+all about splunk addons, repositories, installers, scripts etc.
